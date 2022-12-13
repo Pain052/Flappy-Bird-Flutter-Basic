@@ -8,4 +8,4 @@ Create game flappy bird with flutter
 
 # Cre: James Nguyen (Thanh Hai)
 
-** Facebook: https://www.facebook.com/profile.php?id=100010171960543**
+** Contact me: https://www.facebook.com/profile.php?id=100010171960543**
